@@ -1,0 +1,33 @@
+Frequently Asked Questions
+
+Q: How do I contact support?
+You can reach our support team by emailing support@example.com We also provide in-app support chat, where our team typically responds within a few business hours. For enterprise customers, priority support options are available.
+
+Q: What platforms are supported?
+Our tools support all major operating systems, including:
+Linux
+macOS
+Windows
+We also offer cloud-based integrations for enterprise deployments, enabling scalable and secure contract processing directly from your company’s infrastructure.
+
+Q: Do you provide training?
+Yes. We offer a variety of training options, including:
+Professional onboarding sessions
+Team workshops
+1-on-1 guidance
+Custom training programs for enterprise clients
+Training can be conducted remotely or on-site depending on your needs.
+
+Q: Do you offer API access?
+Yes. Developers can integrate our contract intelligence features through a fully documented and easy-to-use REST API. Sample code and SDKs are available upon request.
+
+Q: Is my data secure?
+We follow strict data-handling standards including encryption, access controls, and privacy-by-design architecture. No customer data is used for model training without explicit consent.
+
+Q: Can Avivo integrate with existing business tools?
+Yes. We support integrations with common tools such as:
+CRM systems
+Document management platforms
+Cloud storage providers
+Workflow automation tools
+Custom integrations can also be developed for enterprise customers.

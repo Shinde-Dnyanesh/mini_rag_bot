@@ -1,0 +1,28 @@
+About Our Company
+
+Avivo is a technology company specializing in contract intelligence, document understanding, and contract management solutions. Our mission is to help businesses transform how they interpret, analyze, and manage contractual information.
+
+We build advanced tools powered by natural language processing (NLP) and generative AI to extract actionable insights from contracts, automate manual review processes, and maintain compliance across large document ecosystems.
+
+Our products are designed to assist teams in:
+Identifying key terms, obligations, and risks
+Automating repetitive contract review workflows
+Reducing human error and speeding up approval cycles
+Ensuring consistent compliance with internal and external policies
+Integrating contract intelligence into existing business systems
+
+At Avivo, we prioritize:
+
+Accuracy
+Our AI models are continuously fine-tuned to deliver precise and reliable results, even across complex legal language.
+
+Privacy & Security
+We implement strict data-handling standards, encryption, and access controls. Customer data is never used for model training without explicit approval.
+
+Developer-Friendly Integrations
+Our tools support seamless integration with existing systems through well-documented APIs, SDKs, and workflow connectors.
+
+Customer-Centric Innovation
+We work closely with clients to improve our products, deliver tailored solutions, and support business-critical use cases.
+
+Avivo is committed to building trustworthy, efficient, and scalable contract intelligence technologies that empower organizations to work smarter and faster.

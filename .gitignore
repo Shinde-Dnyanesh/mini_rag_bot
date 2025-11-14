@@ -1,0 +1,6 @@
+venv/
+memory.db
+Untitled.ipynb
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
